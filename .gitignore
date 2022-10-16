@@ -1,0 +1,18 @@
+# Node-specific
+node_modules/
+build
+package-lock.json
+npm-debug.log
+.npm
+.env
+
+# NVM
+.nvmrc
+
+# Mac-specific files
+.DS_Store
+
+# Testing
+test/
+dest
+driv
